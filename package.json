@@ -1,0 +1,24 @@
+{
+  "name": "dynamo-create-jdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennerdulce/dynamo-create-jdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennerdulce/dynamo-create-jdd/issues"
+  },
+  "homepage": "https://github.com/jennerdulce/dynamo-create-jdd#readme",
+  "dependencies": {
+    "dynamoose": "^2.7.3",
+    "uuid": "^8.3.2"
+  }
+}
